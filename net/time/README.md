@@ -6,5 +6,5 @@ Type | Time (ms)
 -----|----------
 ARP | 
 ND |
-DHCP | 5339
-DNS | 
+DHCP | 5.339
+DNS | 4
