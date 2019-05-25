@@ -4,7 +4,7 @@
 
 Type | Time (ms)
 -----|----------
-ARP | 
+ARP | 5.905 
 ND |
 DHCP | 5.339
 DNS | 4
