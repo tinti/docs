@@ -8,3 +8,7 @@ Documentation about useful commands and recipes
 # net
 
 [net/time](net/time/README.md)
+
+# sudo
+
+[sudo](sudo/README.md)
