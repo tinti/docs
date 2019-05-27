@@ -2,4 +2,6 @@
 
 ## Power button
 
- adb shell input keyevent 26
+```console
+adb shell input keyevent 26
+```
