@@ -9,6 +9,10 @@ Documentation about useful commands and recipes
 
 [net/time](net/time/README.md)
 
+# ssh
+
+[ssh](ssh/README.md)
+
 # sudo
 
 [sudo](sudo/README.md)
